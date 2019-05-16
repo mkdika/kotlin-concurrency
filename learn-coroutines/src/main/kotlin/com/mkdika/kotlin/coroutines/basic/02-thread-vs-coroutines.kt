@@ -8,8 +8,8 @@ import kotlin.system.measureTimeMillis
 
 fun main() {
     val elapsedTime = measureTimeMillis {
-//        runThread()
-        runCoroutines()
+        runThread()
+//        runCoroutines()
     }
     println("Elapsed time: $elapsedTime msecs")
 }

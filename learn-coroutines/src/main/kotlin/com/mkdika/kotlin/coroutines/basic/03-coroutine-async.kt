@@ -17,7 +17,7 @@ fun main() {
                 // and its about over 11.5 days!
                 // But this only takes about 4 secs on my computer :)
                 // remove this delay to make it process faster.
-                delay(1000)
+//                delay(1000)
                 it
             }
         }
